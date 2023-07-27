@@ -1,0 +1,12 @@
+.idea/workspace.xml
+.idea/usage.statistics.xml
+.idea/tasks.xml
+target/
+*.class
+*.jar
+*.war
+*.ear
+*.logs
+*.iml
+.eclipse
+.idea/libraries/*.xml
