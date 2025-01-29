@@ -10,3 +10,4 @@ target/
 *.iml
 .eclipse
 .idea/libraries/*.xml
+.DS_store

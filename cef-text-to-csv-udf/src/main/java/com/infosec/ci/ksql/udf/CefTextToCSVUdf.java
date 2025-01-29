@@ -1,7 +1,4 @@
-package com.intel.infosec.ci.ksql.udf;
-
-//import com.github.jcustenborder.cef.CEFParserFactory;
-//import com.github.jcustenborder.cef.Message;
+package com.infosec.ci.ksql.udf;
 
 import com.fluenda.parcefone.event.CEFHandlingException;
 import com.fluenda.parcefone.event.CommonEvent;
